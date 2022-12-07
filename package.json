@@ -28,7 +28,7 @@
     "babel-preset-es2015": "^6.24.1",
     "easyrtc": "^1.1.0",
     "ejs": "^2.5.7",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "nconf": "^0.8.5",
     "socket.io": "^2.0.3"
   }
